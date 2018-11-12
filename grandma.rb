@@ -3,8 +3,6 @@ def speak_to_grandma(string)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif string == string.downcase
     return "HUH?! SPEAK UP, SONNY!"
-  else 
-    
 end
 # Write a speak_to_grandma method.
 
